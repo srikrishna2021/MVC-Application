@@ -1,0 +1,12 @@
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

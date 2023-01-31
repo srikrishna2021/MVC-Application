@@ -1,0 +1,12 @@
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\EntityFramework.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\EntityFramework.xml
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\DotNet_Projects\WebApplication1\DataAccessLayer\obj\Release\DataAccessLayer.pdb
